@@ -5,4 +5,4 @@ It is important to connect D3 to DIN, DOUT is not used for this project.
 
 # Tutorial in video available on youtube
 
-[![Instructional video](connections.jpg)]([https://www.youtube.com/watch?v=tGfPhHPaHQo](https://www.youtube.com/watch?v=PsD-wd1Ijyw))
+[![Instructional video](miniature.jpg)]([https://www.youtube.com/watch?v=tGfPhHPaHQo](https://www.youtube.com/watch?v=PsD-wd1Ijyw))
