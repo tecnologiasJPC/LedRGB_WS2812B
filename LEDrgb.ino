@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 
-#define PIN        3   // Pin de datos D2
+#define PIN        3   // Pin de datos D3
 #define NUMPIXELS  1   // Cantidad de LEDs conectados
 
 // Configuración del LED (frecuencia de 800Khz y orden de color GRB)
