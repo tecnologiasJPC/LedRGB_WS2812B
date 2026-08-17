@@ -8,7 +8,7 @@ Adafruit_NeoPixel pixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
 void setup() {
   pixel.begin();
-  pixel.setBrightness(60); // Brillo general (0 - 255)
+  pixel.setBrightness(80); // Brillo general (0 - 255)
   pixel.show();
 }
 
